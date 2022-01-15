@@ -60,5 +60,5 @@ print(colour)
 
 #Q5.2 Overwriting elements of a list 
 
-colour[3:5]=["Purple"]
+colour[3:5]=['Purple']
 print(colour)
